@@ -1,3 +1,6 @@
+This is a small part in order to implement version two of:
+https://github.com/MMDavito/8_switch_rgb
+
 Leassons learnt from experiments:
 1. Pull-Down resistors are needed also for SPDT switches.
 2. Unused inputs needs to be pulled low/grounded.
